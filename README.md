@@ -1,2 +1,2 @@
 # recipe-rest-app
-Recipe API PROJECT
+Recipe API PROJECT -Django
